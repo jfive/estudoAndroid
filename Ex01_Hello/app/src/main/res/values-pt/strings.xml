@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex01_Olá</string>
+
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="btn_toast">EXIBIR TOAST</string>
+</resources>
